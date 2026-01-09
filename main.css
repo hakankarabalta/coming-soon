@@ -76,6 +76,10 @@
     color: var(--btn-color);
 }
 
+.social-icon>a {
+ color: var(--btn-color);
+}
+
 .social-icon:hover {
     transition: 0.5s;
     color: #000000;
