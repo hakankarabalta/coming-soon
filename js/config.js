@@ -10,9 +10,9 @@ const CONFIG = {
     subtext: "Merak ediyorsanız, fikir paylaşmak istiyorsanız ya da sadece merhaba demek için — buradayız.",
   },
   links: {
-    linkedin:  "https://linkedin.com/in/kullaniciadi",
-    github:    "https://github.com/kullaniciadi",
-    instagram: "https://instagram.com/kullaniciadi",
-    email:     "mailto:merhaba@example.com",
+    linkedin:  "https://www.linkedin.com/in/hakan-karabalta-21b43a3a4",
+    github:    "https://github.com/hakankarabalta",
+    instagram: "https://instagram.com/hakankarabalta0",
+    email:     "mailto:info@hakankarabalta.com",
   },
 };
